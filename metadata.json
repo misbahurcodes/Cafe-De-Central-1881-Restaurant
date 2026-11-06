@@ -1,0 +1,6 @@
+{
+  "name": "Cafe De Central 1881",
+  "description": "Where Heritage Meets Flavour. The iconic vintage heritage restaurant on Platform 1, Kurseong Railway Station, West Bengal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

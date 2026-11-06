@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+:root {
+  --color-emerald-deep: #081c15;
+  --color-emerald-dark: #0b231a;
+  --color-emerald-card: #0f2d22;
+  --color-emerald-border: #1a4435;
+  --color-gold-antique: #c5a059;
+  --color-gold-light: #dfb76c;
+  --color-gold-muted: #8c7343;
+  --color-cream-soft: #f7f3ea;
+  --color-cream-muted: #d5cbba;
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+.font-serif-vintage {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.font-sans-body {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+/* Custom Heritage Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #081c15;
+}
+::-webkit-scrollbar-thumb {
+  background: #1a4435;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c5a059;
+}
